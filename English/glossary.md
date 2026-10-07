@@ -34,6 +34,9 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Орхан - Orhan
 - Хасан-амджа - Hasan Amca (the red-bearded shopkeeper)
 - Мехмет - Mehmet (the young pickpocket)
+- Карапет - Karapet (Armenian jeweller); Арам - Aram (his grandson)
+- назар - nazar (evil-eye bead, left as in the original)
+- Çemberlitaş, Bilmece - left as in the original
 - Мисафир - Misafir ("guest", the hero's name in the house)
 - локум - lokum (left as in the original)
 - Царьград - Tsargrad
