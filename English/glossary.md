@@ -140,6 +140,13 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Митька - Mitka (kitchen boy)
 - батюшка (address) - dear sir
 - Замок - the Castle (capitalised)
+- Тихон (кучер) / Гнедко / Воронок - Tikhon (coachman) / Gnedok (the bay) / Voronok (the black horse)
+- Марфа - Marfa (cook)
+- «Золотой якорь» - the "Golden Anchor" (inn in the district town)
+- обмирание / обмиранки - obmiranie / obmiranki (kept in transliteration, glossed once as "dying-away" in context)
+- Мэри Рейнольдс - Mary Reynolds (case told by Doctor Strauch)
+- деревянный ворон с солнцем / бумажный журавлик - the wooden raven with the sun in its beak / the paper crane
+- Пестун - Pestun (kept as in the original; Konstantin's failed charade)
 
 ## Characters (Vision III, the liner)
 - Прохор Ильич - Prokhor Ilyich (valet; "P. I.")
