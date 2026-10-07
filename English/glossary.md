@@ -264,6 +264,12 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - мел и кремень - chalk and flint
 - Нечистый - the Evil One (vicar's term)
 
+## Vision V (Monolith)
+- Монолит - the Monolith (black slab; "a thought that grew too large for the one who thinks it")
+- дерево миров / ветви / огоньки - the tree of worlds / branches / lights (each light is the hero)
+- точка - the point (the hero without a body)
+- вязь - the script (kept as in earlier chapters)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
