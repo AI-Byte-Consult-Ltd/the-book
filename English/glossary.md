@@ -35,6 +35,10 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Хасан-амджа - Hasan Amca (the red-bearded shopkeeper)
 - Мехмет - Mehmet (the young pickpocket)
 - Карапет - Karapet (Armenian jeweller); Арам - Aram (his grandson)
+- ходжа Нуреддин - Hodja Nureddin (imam); Насреддин - Nasreddin
+- шикасте - shikasteh ("broken" Persian script)
+- Симург / гора Каф - the Simurgh / Mount Qaf
+- Руми - Rumi
 - назар - nazar (evil-eye bead, left as in the original)
 - Çemberlitaş, Bilmece - left as in the original
 - Мисафир - Misafir ("guest", the hero's name in the house)
