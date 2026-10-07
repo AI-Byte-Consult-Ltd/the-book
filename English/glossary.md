@@ -196,6 +196,15 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Стефан (садовник) - Stefan (Bulgarian gardener of the General; from the monastery near Tarnovo)
 - отец Серафим - Father Serafim (Bulgarian monk collecting for the school)
 - Любен - Lyuben (Bulgarian student from Odessa, with leaflets)
+- свиток из Хивы (кожаный, в шёлковом платке) - the Khiva scroll (leather, in the faded silk kerchief); «Земля помнит» - "The earth remembers"
+- Педра-да-Гавеа - Pedra da Gávea ("the Rock of the Maintop"); проводник Жоакин - the guide Joaquim
+- пампа / гаучо / боласы / мате / пайяда - the pampa / gauchos / bolas / maté / payada (kept in transliteration)
+- дон Эусебио, Ремихио - Don Eusebio, Remigio; Город Цезарей - the City of the Caesars
+- Фиджи, Овалау, Левука, Бека - Fiji, Ovalau, Levuka, Beqa; рату Вануа - Ratu Vanua; Туи Кай - Tui Kai
+- Дэгэи, Була - Degei, Bulu (the land of the dead)
+- хождение по огню - the walking on fire
+- Серебряная река - the Silver River (Rio de la Plata)
+- капитан Холл - Captain Hall (American steamer; earlier chapters)
 - Бай Стефан - Bay Stefan (respectful address)
 - Хитрый Пётр - Cunning Peter (Bulgarian folk trickster)
 - чорбаджия - chorbadzhi (rich village notable, kept in transliteration)
