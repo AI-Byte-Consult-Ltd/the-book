@@ -103,6 +103,11 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Бата - Bata; Ину - Inu (guardsmen)
 - Обе Земли - the Two Lands
 - Опет - Opet (festival)
+- Ирихет - Irikhet (ambassador of Ta-Seti); Нанахат - Nanakhat (blind southern seeress)
+- Та-Сети - Ta-Seti (the southern land beyond the cataracts)
+- Ани-старший - Ani the Elder (keeper of ceremonies, cousin of Ani the scribe of the council)
+- Скала Первых / Скала Ожидания - the Rock of the First Ones / the Rock of Waiting
+- пороги - the cataracts
 - Нефрет - Nefret (senior woman over the palace servants)
 - Исирет - Isiret (old scribe, keeper of the lower storehouse of the Library)
 - Хеканахт-сын-Пепи / Мерира-сын-Пепи - Hekanakht son of Pepi / Merira son of Pepi (ancient scribes)
