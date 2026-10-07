@@ -344,6 +344,21 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - «Готов» - "Ready" (title; NICS's single word on the screen)
 - полуночник - night owl (Boatswain's address to the hero)
 
+## Chapter XXXII
+- Ахмет-баба (голубые глаза) - Ahmet Baba (blue-eyed sheikh; "I am a dervish, I whirl and drink tea")
+- Шемседдин - Shemseddin (blind flute-player, ney, sixty years); Юнус - Yunus (novice boy); Мисмис - Mismis (the three-coloured cat)
+- нее - the ney (reed flute)
+- Нияз-эфенди - Niyaz Efendi (keeper of the archive in the old palace on the cape)
+- печать с двумя окружностями - the seal of two circles (one filled, one empty, a wavy line between), green wax
+- притча о человеке из Багдада - the parable of the man from Baghdad (the treasure under his own fountain)
+- камни - не ключ, а шест канатоходца - the stones are not a key but a rope-walker's balancing pole ("to remember and to forget")
+- два «серых» - the two grey ones: the man in the frock coat (flesh and blood, bergamot cologne) and the faceless one seen by children, cats, the blind
+- Город Цезарей - the City of the Caesars (as the Franks' legend in the New World)
+- шафран Хасана - Hasan's saffron (returned to Ahmet Baba after twenty years)
+- загадка Юнуса о флейте - Yunus's riddle of the flute ("I am empty inside, therefore I sound")
+- хлеб и соль Нуреддина - bread and salt of Nureddin (eaten and thrown over the left shoulder)
+- «Су! Буз гиби су!» - "Su! Buz gibi su!" (kept in Turkish)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
