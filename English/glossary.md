@@ -103,6 +103,13 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Михаил Иванович (Полковник) - Mikhail Ivanovich (the Colonel)
 - Вера Анатольевна - Vera Anatolievna
 - Стефан - Stefan (the General's Bulgarian gardener)
+- профессор Свенцицкий - Professor Sventsitsky (folklorist)
+- мадам Бланшар (Жозефина) - Madame Blanchard (Joséphine), medium
+- Аполлинарий Тресков - Apollinary Treskov (poet)
+- Ольга Кирилловна Шелестова - Olga Kirillovna Shelestova
+- Варвара Петровна - Varvara Petrovna (Olga's cousin)
+- Явь / Навь - Yav / Nav (the seen world / the unseen world; kept as in the original)
+- порог - threshold (charade answer "Po-rog" kept in transliteration)
 - Кашкет - Kashket (Tlingit chief); Иван Кошкин - Ivan Koshkin (Creole interpreter)
 - мандарин Лю - Mandarin Liu
 - Ситха / Новоархангельск - Sitka / Novo-Arkhangelsk
