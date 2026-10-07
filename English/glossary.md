@@ -78,6 +78,11 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Марк Стивенс - Mark Stevens (security specialist, "old acquaintance")
 - Лев Аронович - Lev Aronovich (old craftsman who mends clocks and metronomes)
 - метроном Маэстры - Maestra's old metronome (60 beats for scales, 72 when she plays at night)
+- Клабаутерман - the Klabautermann (ship's spirit; kept in German form)
+- открытка Лейлы - Leila's postcard ("Do not trust the one who does not breathe. - L.")
+- Дерибасовская - Deribasovskaya (street in Odessa)
+- местечко - shtetl
+- кружка Боцмана / проволочная петля - Boatswain's tin mug / the wire-loop alarm
 
 ## Characters (Egyptian setting)
 - Хесира - Hesira (healer)
