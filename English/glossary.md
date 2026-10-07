@@ -126,6 +126,18 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - батюшка (address) - dear sir
 - Замок - the Castle (capitalised)
 
+## Characters (Vision III, the liner)
+- Прохор Ильич - Prokhor Ilyich (valet; "P. I.")
+- миссис Олдридж / попугай Кристобаль - Mrs Aldridge / Cristóbal the parrot
+- преподобный Иезекииль Кроу - Reverend Ezekiel Crow
+- шевалье Огюст де Ламбер - Chevalier Auguste de Lambert
+- Якоб ван дер Хейден - Jacob van der Heyden
+- кок Сэм - Cook Sam
+- Мэри Кейси - Mary Casey
+- профессор Готфрид Альтман - Professor Gottfried Altmann
+- огни Святого Эльма - St Elmo's fire
+- вековой шторм - the century storm
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
