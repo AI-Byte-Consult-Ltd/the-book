@@ -293,6 +293,21 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - мальчик-дервиш и кошка - the dervish boy and the cat
 - красная нить с половиной назара - the red thread with the half nazar on the hero's wrist ("If you return")
 
+## Chapter XXX
+- Гришенька (юродивый, блаженный) - Grishenka (the holy fool, "the blessed one"; fifteen years silent)
+- «Гость пришёл, а хозяин ещё не родился» - "The guest has come, and the master is not yet born"
+- Пантелеймон Кузьмич Сычёв - Panteleimon Kuzmich Sychov (landlord of the Golden Anchor)
+- Тихон Лукич Бородин, села Малые Ключи - Tikhon Lukich Borodin, of the village of Maly Klyuchi
+- Иван Филиппович Свенцицкий - Ivan Filippovich Sventsitsky (the professor; "Sventsitsky" as in earlier chapters)
+- тетрадь «Гость» - the notebook "Guest" (47 entries, Vera's drawing the 48th, the blue notebook's line the 49th)
+- «Если придёт другой - накормите его» - "If another comes, feed him"
+- карандаш гостя - the guest's pencil (left on the bench by the stove)
+- Шмат-разум - Shmat-razum (the Scrap of Mind; glossed once in the tale)
+- Федот-стрелец - Fedot the archer ("Go I know not where, bring back I know not what")
+- Лотце, «Медицинская психология» - Lotze, "Medical Psychology"
+- Штраух: одиннадцать случаев - Strauch: eleven cases ("I need at least twelve")
+- почтовая станция / «Дар Валдая» - the post station / the bell "Gift of Valdai"
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
