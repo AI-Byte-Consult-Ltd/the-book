@@ -385,6 +385,17 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Бес - Bes (dwarf god, amulet)
 - гермопольский жрец - the priest of Hermopolis (author of the Book of Dreams)
 
+## Vision VII (Safe House)
+- Петроград, ночь на 25 октября 1917 - Petrograd, the night of 24-25 October 1917 (the Old Style date kept as in the original)
+- пароль «Срок пришёл» - the password "The time has come" (the day's: "Auntie from Vyborg sends her regards")
+- Агния Павловна - Agnia Pavlovna (teacher; "Remember who will read them"); Кузьма Бойко - Kuzma Boyko (sailor of the *Aurora*, from near Vologda); Гриша - Grisha (student with the leaflet); Степан Ерофеевич - Stepan Yerofeyevich (compositor); Тойво - Toivo (the Finn)
+- Старик - the Old Man (face never seen; left his cap and bandage)
+- палиндром Фета - Fet's palindrome *A roza upala na lapu Azora* (kept in transliteration, which is itself a palindrome; glossed once in the text)
+- свинцовая буква «А» - the leaden letter "A" (first and last of the line)
+- «Правда» от 13 апреля 1961 - *Pravda* of 13 April 1961 ("MAN IN SPACE!", Khrushchev on the rostrum), burned by Toivo with a white flame
+- загадка Кузьмы: «Корабль ушёл, а след остался» - Kuzma's riddle: the wake that remains; answer "a voice"
+- «Аврора» - the *Aurora*; Гельсингфорс - Helsingfors; Смольный - Smolny; Сенная - Sennaya
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
