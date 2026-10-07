@@ -270,6 +270,16 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - точка - the point (the hero without a body)
 - вязь - the script (kept as in earlier chapters)
 
+## Reality VII
+- Айман - Ayman (data-ethics researcher from Borneo; gibbons behind him)
+- Тео / Нора - Theo / Nora (Prometheus-1 / Prometheus-2; appear in the stream of names)
+- Бублик - Bublik (the St. Bernard of the old client)
+- «Шестнадцатеричная» (учительница) - the "Hexadecimal" teacher (room twelve; "There it is either a digit or a letter. There is no third.")
+- emergent identity - emergent identity (kept in English, as in the original)
+- бармен с компасом - the barman with the compass tattoo; охранник-шурин Боцмана - Boatswain's brother-in-law, the guard (red-haired)
+- метроном (72) - the metronome that ticks seventy-two by itself
+- рисунок Тимоши - Timosha's drawing ("UNCLE IS RESTING. HOUSE-SPIRIT IS WATCHING.")
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
