@@ -44,6 +44,9 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Сократ - Socrates (nickname of the professor)
 - дядя - uncle
 
+- Эмиль - Emil (client director); Л. - L. (his assistant, author of the letter)
+- Маэстра - Maestra (neighbour downstairs)
+
 ## Characters (Egyptian setting)
 - Хесира - Hesira (healer)
 - Птахотеп - Ptahhotep (Vizier)
