@@ -331,6 +331,19 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - «Что видно?» - "What can you see?" (Mella's morning question; the closing refrain)
 - песня о Серости - Bran's funeral song (rendered in unrhymed verse)
 
+## Reality VIII
+- компас Льва Ароновича - Lev Aronovich's wrong compass (points at whoever holds it; engraving "until the appointed time", rubbed away)
+- серая машина - the grey car (no plates, tinted windows; a hand in a grey glove waves)
+- угольный люк - the coal hatch (escape route into the old boiler room)
+- корабельный ящик с «Академика Шокальского» - the ship's chest from the *Akademik Shokalsky* (red velvet, once held a sextant and chronometer)
+- открытка с двумя башнями - Leila's postcard with the two silver towers ("There is a place here where they are not. The fifty-first floor. Ask for Hakim. - L.")
+- Хаким - Hakim
+- камертон Маэстры - Maestra's tuning fork (the note A, her teacher's)
+- рисунок Тимоши: «ОКИЯН» - Timosha's drawing; his misspelling rendered as "OSHUN" (Maestra: "'Ocean' has a 'c' and an 'e'")
+- «До срока» - "Until the appointed time" (notebook, compass, NICS's spoken words)
+- «Готов» - "Ready" (title; NICS's single word on the screen)
+- полуночник - night owl (Boatswain's address to the hero)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
