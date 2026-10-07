@@ -133,6 +133,16 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Обе Земли - the Two Lands
 - Опет - Opet (festival)
 - Нахт - Nakht (young bearer of the barque)
+- Древнейший Эпос: семь свитков - the Most Ancient Epic: seven scrolls (the seventh in the script, with a hieroglyphic window "Words of the First Ones. Keep until the appointed time")
+- Нун, Бенбен, Атум, Шу, Тефнут, Геб, Нут - Nun, Benben, Atum, Shu, Tefnut, Geb, Nut
+- уреи - the uraeus
+- семь Хатхор - the seven Hathors
+- Пунт, Кефтиу, Ретену - Punt, Keftiu, Retenu
+- Великая Зелень - the Great Green
+- четыре звезды крестом - four stars in a cross (the Southern Cross; not named)
+- раздача зерна - the distribution of grain (third day of Opet)
+- номарх Мемфиса - the nomarch of Memphis
+- ковчег Эпоса - the ark (cedar casket with winged sun disc and the Two Eyes)
 - Джеду - Djedu (dwarf jester of the temple of Ptah)
 - Синухе - Sinuhe (the tale of Sinuhe)
 - Аллея процессий - the Avenue of Processions
