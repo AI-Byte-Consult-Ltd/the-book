@@ -308,6 +308,18 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Штраух: одиннадцать случаев - Strauch: eleven cases ("I need at least twelve")
 - почтовая станция / «Дар Валдая» - the post station / the bell "Gift of Valdai"
 
+## Chapter XXXI
+- Сенеджем - Senedjem (the arsonist, servant of the house of Nebseni)
+- Небсени - Nebseni (Khaemuas's father)
+- чати - the Vizier (Ptahhotep, as elsewhere)
+- «человек, который звенит» - "the man who jingles" (the one in bracelets heard by Meru)
+- браслет с переплетёнными лотосами - the narrow bracelet with interlaced lotuses (one of two given to Khaemuas by his mother; the second "returns to the one for whom it is meant")
+- широкий золотой браслет с уреем - the wide golden bracelet with the uraeus (three in the treasury: the former Pharaoh's, the High Priest's, the one issued to Pharaoh for Opet)
+- поучение убитого Фараона - the teaching of the murdered Pharaoh (recited by Ani: "Beware of subjects...")
+- лишение имени / своя рука - deprivation of the name / the mercy of the ancients (to die by one's own hand)
+- ароур - aroura (land measure)
+- Скала Первых - the Rock of the First Ones
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
