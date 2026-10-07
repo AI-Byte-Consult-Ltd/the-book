@@ -197,6 +197,18 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - огни Святого Эльма - St Elmo's fire
 - вековой шторм - the century storm
 
+## Characters (Vision IV, England)
+- Эймсбери - Amesbury; Пяточный камень - the Heel Stone
+- миссис Хоббс - Mrs Hobbs (landlady)
+- профессор Эразм Холлоуэй - Professor Erasmus Holloway (Oxford)
+- преподобный Сайлас Уиткомб - the Reverend Silas Whitcombe (vicar)
+- мисс Ада Ловелл - Miss Ada Lovell (photographer)
+- старый Джедидайя / пёс Шеп - old Jedediah (shepherd) / the dog Shep
+- Зора - Zora (gypsy fortune-teller)
+- сарсены, голубые камни, трилиты - sarsens, bluestones, trilithons
+- мел и кремень - chalk and flint
+- Нечистый - the Evil One (vicar's term)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
