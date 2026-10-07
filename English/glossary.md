@@ -177,6 +177,13 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Евтимий - Euthymius (the Patriarch)
 - экзархат - the Exarchate; Апостол - the Apostle (Vasil Levski, not named in the text)
 - роза из Тырново - the dark-scarlet rose of Tarnovo (bloomed out of season)
+- Жюль Верн, «Вокруг света в восемьдесят дней» - Jules Verne, "Around the World in Eighty Days" (Mr Fogg, the elephant)
+- Вера Анатольевна / Мишенька - Vera Anatolievna / Mishenka (the Colonel)
+- акварель Веры - Vera's watercolour (the hero in a turban, Constantinople, fifteen years ago)
+- «Если придёт другой - накормите его» - "If another comes - feed him"
+- «Диана» - the Diana (frigate)
+- Пера - Pera
+- Марфа - Marfa (cook; almond biscuits)
 - Тихон (кучер) / Гнедко / Воронок - Tikhon (coachman) / Gnedok (the bay) / Voronok (the black horse)
 - Марфа - Marfa (cook)
 - «Золотой якорь» - the "Golden Anchor" (inn in the district town)
