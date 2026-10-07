@@ -60,6 +60,17 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Ити - Iti (junior keeper of the Library)
 - Хему - Khemu (young priestess)
 - Хапи-Ре - Hapi-Re (canal)
+- Джехути - Djehuty (commander of the southern outposts)
+- Пасер - Paser (oldest commander)
+- Хаэмуас - Khaemuas
+- Мерира - Merira (commander of the river barques)
+- Панехси - Panehsy (commander of the Medjay)
+- меджаи - the Medjay
+- Бакенрен - Bakenren (second man of the Temple)
+- Ани - Ani (scribe of the council)
+- Бата - Bata; Ину - Inu (guardsmen)
+- Обе Земли - the Two Lands
+- Опет - Opet (festival)
 
 ## Characters (Russian setting)
 - Артемия Аристарховна - Artemia Aristarkhovna
