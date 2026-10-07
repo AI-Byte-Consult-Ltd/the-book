@@ -359,6 +359,20 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - хлеб и соль Нуреддина - bread and salt of Nureddin (eaten and thrown over the left shoulder)
 - «Су! Буз гиби су!» - "Su! Buz gibi su!" (kept in Turkish)
 
+## Chapter XXXIII
+- фельдъегерь (Лёвушка Арсеньев) - the courier (Lyovushka Arsenyev, Konstantin's corps classmate)
+- Порта / Герцеговина / софты - the Porte / Herzegovina / the softas (madrasa students)
+- ключ от решётки (из волос тёти) - the key to the grille (hidden forty years in Auntie's hair; "Not to open with. To return with.")
+- Крутицкий - Krutitsky (the General's former adjutant, retired)
+- шарада «Царьград» - the charade "Tsargrad" (Tsar + grad; rhymed adaptation, last line broken off: "the ruler is..." / "The Tsar!")
+- князь Олег Вещий - Prince Oleg the Wise (ships on wheels; shield on the gates of Tsargrad)
+- Фанар / Патриархия - the Phanar / the Patriarchate (Stefan's rose from Tarnovo)
+- «все одиннадцать ушли на юг» - "all eleven went south" (Strauch's black book; "Not one of the eleven came back")
+- помолвка Генерала и Евдокии Герасимовны - the General's engagement to Evdokia Gerasimovna
+- письмо Свенцицкого: «дом у моря под охраной кошек» - Sventsitsky's letter: "a house by the sea, guarded by cats" (23 of 47 entries end at the strait)
+- нательный крест Константина - Konstantin's baptismal cross (his mother's; "leave it on the threshold, I will find it")
+- Тётя - Auntie (Artemia Aristarkhovna as addressed by the hero)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
