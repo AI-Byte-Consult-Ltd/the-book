@@ -280,6 +280,19 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - метроном (72) - the metronome that ticks seventy-two by itself
 - рисунок Тимоши - Timosha's drawing ("UNCLE IS RESTING. HOUSE-SPIRIT IS WATCHING.")
 
+## Chapter XXIX
+- четыре условия Ахмета-бабы - Ahmet Baba's four conditions (do not come from the end you came from; bring what you do not have; ask what you know the answer to; do not give your name)
+- каййим - the kayyim (custodian of Hagia Sophia)
+- плачущая колонна - the weeping column
+- руны Халфдана - Halfdan's runes (gallery, with a line of the script beside them)
+- Бизант «напротив слепых» - Byzas, "opposite the blind"
+- морские ворота / каик - the sea gates / the caique (rowed by Mustafa)
+- мешочек Ходжи Нуреддина - Hodja Nureddin's pouch of salt and bread
+- белая раковина Кемаля - Kemal's white spiral shell
+- табличка «Терпение» - the plaque "Patience" on the lodge gate
+- мальчик-дервиш и кошка - the dervish boy and the cat
+- красная нить с половиной назара - the red thread with the half nazar on the hero's wrist ("If you return")
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
