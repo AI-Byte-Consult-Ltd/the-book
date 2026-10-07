@@ -66,6 +66,10 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Карл Фёдорович Штраух - Karl Fyodorovich Strauch
 - Михаил Иванович (Полковник) - Mikhail Ivanovich (the Colonel)
 - Вера Анатольевна - Vera Anatolievna
+- Агафья Тихоновна - Agafya Tikhonovna (housekeeper)
+- Митька - Mitka (kitchen boy)
+- батюшка (address) - dear sir
+- Замок - the Castle (capitalised)
 
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
