@@ -15,6 +15,21 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Дворянское гнездо - A Nest of Gentlefolk
 - Появление - The Appearance
 
+- Чати - the Vizier
+- номарх / ном - nomarch / nome
+- Древнейший Эпос - the Most Ancient Epic
+- Библиотека - the Library
+- Империя - the Empire
+
+## Characters (Egyptian setting)
+- Хесира - Hesira (healer)
+- Птахотеп - Ptahhotep (Vizier)
+- Анхтифи - Ankhtifi (nomarch)
+- Паней, сын Хеви - Paney, son of Hevi
+- Аменемопе - Amenemope (Chief Keeper of the Library)
+- Нефер-Ка - Nefer-Ka (High Priest)
+- Нехен-Малое - Little Nekhen
+
 ## Characters (Russian setting)
 - Артемия Аристарховна - Artemia Aristarkhovna
 - Игнатий Саввич - Ignatiy Savvich
