@@ -25,6 +25,19 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - До срока - Until the appointed time
 - НИКС - NICS (Neural Intelligent Cognitive System)
 
+## Characters (Istanbul)
+- Ферхат - Ferhat
+- Сюлейман (дедушка) - Suleyman (grandfather)
+- Юсуф (дядя) - Yusuf (uncle)
+- Акмаль - Akmal
+- Кемаль - Kemal
+- Орхан - Orhan
+- Хасан-амджа - Hasan Amca (the red-bearded shopkeeper)
+- Мехмет - Mehmet (the young pickpocket)
+- Мисафир - Misafir ("guest", the hero's name in the house)
+- локум - lokum (left as in the original)
+- Царьград - Tsargrad
+
 ## Characters (modern setting)
 - Шестнадцатеричная - Hexadecimal (nickname of the computer science teacher)
 - Грач - Rook (nickname of the boy from the radio club)
