@@ -48,6 +48,10 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Карагёз / Хадживат - Karagöz / Hacivat (shadow theatre)
 - Султанахмет - Sultanahmet
 - ага (Сюлейман-ага) - Agha
+- Мустафа-лодочник - Mustafa the boatman
+- Акшехир - Akshehir (Nasreddin's tomb with the lock and no walls)
+- белая голубка Акмаля - Akmal's white dove (feathered feet, fan tail)
+- новый назар Сюлеймана - Suleyman's new big nazar
 
 ## Characters (modern setting)
 - Шестнадцатеричная - Hexadecimal (nickname of the computer science teacher)
