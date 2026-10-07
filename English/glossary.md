@@ -46,6 +46,10 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 
 - Эмиль - Emil (client director); Л. - L. (his assistant, author of the letter)
 - Маэстра - Maestra (neighbour downstairs)
+- Лейла - Leila (Emil's assistant, "L.")
+- Тимоша - Timosha (Maestra's pupil)
+- Боцман - Boatswain (night watchman)
+- Прометей - Prometheus (closed directory: Prometheus-1, -2, -3)
 
 ## Characters (Egyptian setting)
 - Хесира - Hesira (healer)
