@@ -320,6 +320,17 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - ароур - aroura (land measure)
 - Скала Первых - the Rock of the First Ones
 
+## Vision VI (Valley and Tower)
+- Хранитель Башни - the Keeper of the Tower
+- Серость - the Greyness (the one who eats memory); Серый - the Grey One (faceless visitor)
+- старый Бран - old Bran; Мелла - Mella (miller's daughter, red-haired); Иво - Ivo (boy who writes on birch bark, three chests); Кай - Kai (the Guardian at the door, spear and old mail)
+- кузнец Одо / пасечница Ива / старая Гвен - the smith Odo / the beekeeper Iva / old Gwen
+- триста тридцать три ступени, семь ярусов - three hundred and thirty-three steps, seven tiers
+- чаша на трёх драконьих лапах - the bronze bowl on three dragon's claws (the signal fire)
+- белый огонь «называет» вещи - the white fire "names" each thing and leaves ash
+- «Что видно?» - "What can you see?" (Mella's morning question; the closing refrain)
+- песня о Серости - Bran's funeral song (rendered in unrhymed verse)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
