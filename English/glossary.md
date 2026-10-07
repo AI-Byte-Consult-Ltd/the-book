@@ -77,6 +77,12 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Два Ока / Очи Гора - the Two Eyes / the Eyes of Horus
 - Тот, Гор, Сет, Осирис, Ра, Апоп - Thoth, Horus, Set, Osiris, Ra, Apep
 - Дуат - the Duat
+- Пенту - Pentu (junior scribe of the temple of Ptah); Джедхор - Djedhor (drunken granary watchman)
+- Хунануп / Немтинахт - Khunanup / Nemtynakht (tale of the Eloquent Peasant)
+- хекат - hekat; ниломер - nilometer
+- ка, ба, ах, рен, шут, иб - ka, ba, akh, ren, shut, ib
+- Амат - Ammit; Сопдет - Sopdet; Поля Иалу - the Fields of Iaru
+- Зал Двух Истин - the Hall of Two Truths
 - Джехути - Djehuty (commander of the southern outposts)
 - Пасер - Paser (oldest commander)
 - Хаэмуас - Khaemuas
