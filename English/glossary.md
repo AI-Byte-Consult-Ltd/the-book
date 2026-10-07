@@ -94,6 +94,12 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Бата - Bata; Ину - Inu (guardsmen)
 - Обе Земли - the Two Lands
 - Опет - Opet (festival)
+- Нефрет - Nefret (senior woman over the palace servants)
+- Исирет - Isiret (old scribe, keeper of the lower storehouse of the Library)
+- Хеканахт-сын-Пепи / Мерира-сын-Пепи - Hekanakht son of Pepi / Merira son of Pepi (ancient scribes)
+- нижнее хранилище - the lower storehouse
+- сенет - senet
+- Гелиополь - Heliopolis
 
 ## Characters (Russian setting)
 - Артемия Аристарховна - Artemia Aristarkhovna
