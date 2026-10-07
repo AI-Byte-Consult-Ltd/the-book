@@ -113,6 +113,16 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Бата - Bata; Ину - Inu (guardsmen)
 - Обе Земли - the Two Lands
 - Опет - Opet (festival)
+- Нахт - Nakht (young bearer of the barque)
+- Джеду - Djedu (dwarf jester of the temple of Ptah)
+- Синухе - Sinuhe (the tale of Sinuhe)
+- Аллея процессий - the Avenue of Processions
+- ладья бога / ковчег - the god's barque / the shrine
+- систр - sistrum (pl. sistra)
+- оракул ладьи - the oracle of the barque
+- азиаты - the Asiatics
+- павианы Тота - the baboons of Thoth
+- скарабеи (храмовые) - temple scarabs (blue)
 - Мехи (ловчий) - Mehi (old huntsman); кот Мау - Mau (the hunting cat)
 - Сети (хранитель ниломера) - Seti (keeper of the nilometer)
 - Сенеб - Seneb (observer of the night hours from Heliopolis)
