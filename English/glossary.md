@@ -113,6 +113,15 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Бата - Bata; Ину - Inu (guardsmen)
 - Обе Земли - the Two Lands
 - Опет - Opet (festival)
+- Мехи (ловчий) - Mehi (old huntsman); кот Мау - Mau (the hunting cat)
+- Сети (хранитель ниломера) - Seti (keeper of the nilometer)
+- Сенеб - Seneb (observer of the night hours from Heliopolis)
+- Нут, Сах, Сопдет - Nut, Sah (Orion/Osiris), Sopdet (Isis)
+- Нетленные - the Imperishable (circumpolar stars)
+- Небесный Нил - the Heavenly Nile
+- шестнадцать локтей - sixteen cubits
+- Дельта / Великая Зелень - the Delta / the Great Green (the sea)
+- Маат - Maat
 - Ирихет - Irikhet (ambassador of Ta-Seti); Нанахат - Nanakhat (blind southern seeress)
 - Та-Сети - Ta-Seti (the southern land beyond the cataracts)
 - Ани-старший - Ani the Elder (keeper of ceremonies, cousin of Ani the scribe of the council)
