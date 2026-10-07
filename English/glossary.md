@@ -21,6 +21,16 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Библиотека - the Library
 - Империя - the Empire
 
+- Явь - Reality (section title; can be changed to "Waking Life" if preferred)
+- До срока - Until the appointed time
+- НИКС - NICS (Neural Intelligent Cognitive System)
+
+## Characters (modern setting)
+- Шестнадцатеричная - Hexadecimal (nickname of the computer science teacher)
+- Грач - Rook (nickname of the boy from the radio club)
+- Сократ - Socrates (nickname of the professor)
+- дядя - uncle
+
 ## Characters (Egyptian setting)
 - Хесира - Hesira (healer)
 - Птахотеп - Ptahhotep (Vizier)
