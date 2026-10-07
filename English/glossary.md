@@ -52,6 +52,9 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Акшехир - Akshehir (Nasreddin's tomb with the lock and no walls)
 - белая голубка Акмаля - Akmal's white dove (feathered feet, fan tail)
 - новый назар Сюлеймана - Suleyman's new big nazar
+- Ахмет-баба - Ahmet Baba (learned dervish near Hagia Sophia; enters only those who solve his riddle)
+- Айя-София - Hagia Sophia (in text of Chapter XVII called "the cathedral"; here named)
+- две двери (рисунок Кемаля) - the two doors (Kemal's drawing)
 
 ## Characters (modern setting)
 - Шестнадцатеричная - Hexadecimal (nickname of the computer science teacher)
