@@ -155,6 +155,19 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Митька - Mitka (kitchen boy)
 - батюшка (address) - dear sir
 - Замок - the Castle (capitalised)
+- Стефан (садовник) - Stefan (Bulgarian gardener of the General; from the monastery near Tarnovo)
+- отец Серафим - Father Serafim (Bulgarian monk collecting for the school)
+- Любен - Lyuben (Bulgarian student from Odessa, with leaflets)
+- Бай Стефан - Bay Stefan (respectful address)
+- Хитрый Пётр - Cunning Peter (Bulgarian folk trickster)
+- чорбаджия - chorbadzhi (rich village notable, kept in transliteration)
+- гатанки - gatanki (Bulgarian riddles); "Бяло поле, черно семе" kept in transliteration with translation
+- мартеница / Баба Марта - martenitsa / Baba Marta
+- Царевец / Янтра / Тырново - Tsarevets / Yantra / Tarnovo
+- Казанлык / Долина роз - Kazanlak / the Valley of Roses
+- Евтимий - Euthymius (the Patriarch)
+- экзархат - the Exarchate; Апостол - the Apostle (Vasil Levski, not named in the text)
+- роза из Тырново - the dark-scarlet rose of Tarnovo (bloomed out of season)
 - Тихон (кучер) / Гнедко / Воронок - Tikhon (coachman) / Gnedok (the bay) / Voronok (the black horse)
 - Марфа - Marfa (cook)
 - «Золотой якорь» - the "Golden Anchor" (inn in the district town)
