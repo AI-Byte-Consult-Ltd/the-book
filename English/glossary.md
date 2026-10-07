@@ -44,6 +44,10 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Мисафир - Misafir ("guest", the hero's name in the house)
 - локум - lokum (left as in the original)
 - Царьград - Tsargrad
+- Хатидже-ханым - Hatice Hanim (widow with the cats)
+- Карагёз / Хадживат - Karagöz / Hacivat (shadow theatre)
+- Султанахмет - Sultanahmet
+- ага (Сюлейман-ага) - Agha
 
 ## Characters (modern setting)
 - Шестнадцатеричная - Hexadecimal (nickname of the computer science teacher)
