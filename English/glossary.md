@@ -373,6 +373,18 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - нательный крест Константина - Konstantin's baptismal cross (his mother's; "leave it on the threshold, I will find it")
 - Тётя - Auntie (Artemia Aristarkhovna as addressed by the hero)
 
+## Chapter XXXIV
+- Неферхотеп - Neferhotep (foreman of the right gang); Хуи - Hui (painter); Ипуи - Ipui (carver)
+- Таусерт (Мудрая) - Tausert (the Wise Woman of the village); Книга снов - the Book of Dreams (line "between two columns in darkness" erased)
+- «Мы голодны! Восемнадцать дней!» - "We are hungry! Eighteen days!" (ration withheld by Bakenren's order)
+- деревня строителей гробниц - the village of the tomb-builders; дом вечности - house of eternity
+- черепки с рисунками (кошка-пастух, мышь-Фараон, осёл-жрец) - the potsherds (cat herding geese, mouse-Pharaoh, donkey-priest)
+- круглая комната - the round room (black stone, script inside the stone, dome of stars with the Southern Cross, bench with two nut-sized hollows)
+- три слова: «хранить», «срок», «дом» - three words: "keep", "appointed time", "house"
+- пустая гробница стёртого Фараона - the empty tomb of the Pharaoh with the erased name
+- Бес - Bes (dwarf god, amulet)
+- гермопольский жрец - the priest of Hermopolis (author of the Book of Dreams)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
