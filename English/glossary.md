@@ -74,6 +74,12 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Карл Фёдорович Штраух - Karl Fyodorovich Strauch
 - Михаил Иванович (Полковник) - Mikhail Ivanovich (the Colonel)
 - Вера Анатольевна - Vera Anatolievna
+- Стефан - Stefan (the General's Bulgarian gardener)
+- Кашкет - Kashket (Tlingit chief); Иван Кошкин - Ivan Koshkin (Creole interpreter)
+- мандарин Лю - Mandarin Liu
+- Ситха / Новоархангельск - Sitka / Novo-Arkhangelsk
+- колоши - Koloshi (Tlingit)
+- Государь - the Sovereign
 - Агафья Тихоновна - Agafya Tikhonovna (housekeeper)
 - Митька - Mitka (kitchen boy)
 - батюшка (address) - dear sir
