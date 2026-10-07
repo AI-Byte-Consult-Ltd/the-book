@@ -52,6 +52,11 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Аменемопе - Amenemope (Chief Keeper of the Library)
 - Нефер-Ка - Nefer-Ka (High Priest)
 - Нехен-Малое - Little Nekhen
+- Сенусерт - Senusret (commander of the army)
+- Небамон - Nebamun (keeper of the royal treasury)
+- Ити - Iti (junior keeper of the Library)
+- Хему - Khemu (young priestess)
+- Хапи-Ре - Hapi-Re (canal)
 
 ## Characters (Russian setting)
 - Артемия Аристарховна - Artemia Aristarkhovna
