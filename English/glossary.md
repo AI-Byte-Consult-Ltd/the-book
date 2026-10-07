@@ -63,6 +63,11 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Тео - Theo; Нора - Nora (the previous two developers)
 - Ганте - Gante (business assistant project; name kept as in the original)
 - Прометей - Prometheus (closed directory: Prometheus-1, -2, -3)
+- Зодчий - Zodchiy (the agent-builder; kept in transliteration, explained in the text as one who builds what must outlast himself)
+- Вероника - Veronika (voice of the sales agent)
+- Гарик - Garik (the fat manager of the management company)
+- человек в сером / знак пламени - the man in grey / the sign of the small flame
+- Эмиль, Лейла - Emil, Leila (see above)
 
 ## Characters (Egyptian setting)
 - Хесира - Hesira (healer)
