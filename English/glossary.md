@@ -52,6 +52,8 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Лейла - Leila (Emil's assistant, "L.")
 - Тимоша - Timosha (Maestra's pupil)
 - Боцман - Boatswain (night watchman)
+- Тео - Theo; Нора - Nora (the previous two developers)
+- Ганте - Gante (business assistant project; name kept as in the original)
 - Прометей - Prometheus (closed directory: Prometheus-1, -2, -3)
 
 ## Characters (Egyptian setting)
