@@ -67,6 +67,10 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Ити - Iti (junior keeper of the Library)
 - Хему - Khemu (young priestess)
 - Хапи-Ре - Hapi-Re (canal)
+- Меру - Meru (blind gatekeeper); Мерит - Merit (old priestess); Тийи - Tiyi
+- Два Ока / Очи Гора - the Two Eyes / the Eyes of Horus
+- Тот, Гор, Сет, Осирис, Ра, Апоп - Thoth, Horus, Set, Osiris, Ra, Apep
+- Дуат - the Duat
 - Джехути - Djehuty (commander of the southern outposts)
 - Пасер - Paser (oldest commander)
 - Хаэмуас - Khaemuas
