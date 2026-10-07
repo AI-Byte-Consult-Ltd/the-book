@@ -49,6 +49,20 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Султанахмет - Sultanahmet
 - ага (Сюлейман-ага) - Agha
 - Мустафа-лодочник - Mustafa the boatman
+- кира Феодора Палеолог-Мелиссина - Kyra Theodora Palaiologina-Melissene (rendered "Palaiologos-Melissenos" in her letter)
+- Деспина - Despina (the old woman with candles, now Kyra Theodora's servant)
+- Мануил Мелиссин - Manuel Melissenos (her ancestor, commander at Blachernae)
+- Фанар / Золотой Рог - the Phanar / the Golden Horn
+- кайык - caique
+- драгоманы / господари - dragomans / hospodars
+- Мраморный царь - the Marble King
+- Золотые ворота / ворота Святого Романа - the Golden Gate / the Gate of Saint Romanus
+- Кызыл Эльма (Красная Яблоня) - Kyzyl Elma (the Red Apple)
+- двуглавый орёл - the double-headed eagle (one head broken off over the gate)
+- павлин киры Феодоры - Kyra Theodora's peacock
+- палиндром на фонтане - the palindrome inscription on the fountain ("Wash your sins, not only your face")
+- монета 1453 года - the coin from the night of 28-29 May 1453
+- василевс - basileus (pl. basileis)
 - Акшехир - Akshehir (Nasreddin's tomb with the lock and no walls)
 - белая голубка Акмаля - Akmal's white dove (feathered feet, fan tail)
 - новый назар Сюлеймана - Suleyman's new big nazar
