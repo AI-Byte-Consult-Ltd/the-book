@@ -72,6 +72,9 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Гарик - Garik (the fat manager of the management company)
 - человек в сером / знак пламени - the man in grey / the sign of the small flame
 - Эмиль, Лейла - Emil, Leila (see above)
+- Марк Стивенс - Mark Stevens (security specialist, "old acquaintance")
+- Лев Аронович - Lev Aronovich (old craftsman who mends clocks and metronomes)
+- метроном Маэстры - Maestra's old metronome (60 beats for scales, 72 when she plays at night)
 
 ## Characters (Egyptian setting)
 - Хесира - Hesira (healer)
