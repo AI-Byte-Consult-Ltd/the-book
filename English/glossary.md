@@ -396,6 +396,33 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - загадка Кузьмы: «Корабль ушёл, а след остался» - Kuzma's riddle: the wake that remains; answer "a voice"
 - «Аврора» - the *Aurora*; Гельсингфорс - Helsingfors; Смольный - Smolny; Сенная - Sennaya
 
+## Reality IX (Kuala Lumpur)
+- Хаким - Hakim (estate agent; "Real estate. Rental. Sales."; batik shirt, black velvet cap); его дядя - Hakim's uncle (owner of the building, "does not believe in smart things")
+- 51-й этаж без камер - the fifty-first floor without cameras
+- две башни - the two towers (the Petronas Towers, not named in the original)
+- дуриан - durian ("Strange" is the best answer)
+- Джалан Алор - Jalan Alor (street of food); наси лемак - nasi lemak
+- Ананд - Anand (Tamil owner of the corner, teh tarik); тех-тарик - teh tarik ("pulled tea"); загадка о реке - the river riddle
+- Куала-Лумпур - Kuala Lumpur ("muddy confluence"; the white mosque at the confluence, not named)
+- сянци - xiangqi (Chinese chess); дядюшка Лим / дядюшка Тан - Uncle Lim / Uncle Tan; чёрная фишка-генерал - the black general piece ("cannot leave the palace"); "пять ходов не твои" - "the first five moves are not yours"
+- оранг-буниан - orang bunian (the invisible people, kept in transliteration)
+- Серая - Grey (the foundation agent, face cannot be remembered); Хорн - Horn (her sentimental colleague who waved)
+- фонд - the foundation
+- Нора «с нами, добровольно, счастлива» - Nora "with us, voluntarily, happy"
+- Кучинг / Борнео - Kuching / Borneo (Ayman's message)
+- пещеры Бату - the Batu Caves (golden god with a spear, rainbow staircase of 272 steps; Leila on the 271st); Тайпусам - Thaipusam
+- Лангкави / Махсури - Langkawi / Mahsuri (legend of the white blood)
+- си-бемоль Тимоши - Timosha's B-flat
+- толстый Гарик (металлолом) - fat Garik (buys the emptied racks for scrap)
+
+## Added by audit (names and terms that were missing)
+- Тимофей - Timofey (Timosha's full name, used by NICS)
+- Костя - Kostya (Konstantin's pet name)
+- Верочка - Verochka (the Colonel's pet name for Vera Anatolievna)
+- Менес - Menes (first pharaoh; the riddle's answer in Chapter III)
+- Ахет - Akhet (the season of the flood)
+- Мисмис - Mismis (cat of Ahmet Baba; also in Chapter XXXII section)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
