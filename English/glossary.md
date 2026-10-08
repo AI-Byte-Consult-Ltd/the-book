@@ -423,6 +423,25 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Ахет - Akhet (the season of the flood)
 - Мисмис - Mismis (cat of Ahmet Baba; also in Chapter XXXII section)
 
+## Chapter XXXV
+- старый дворец (Топкапы, не назван) - the old palace on the cape (the Sultan lives in the new one); ворота с нишами для голов - the gate with niches (once for heads)
+- Сюмбюль-ага - Sumbul Agha (eunuch, keeper of the keys, bought in Cairo at eight, from the Sudan)
+- Нияз-эфенди - Niyaz Efendi (Keeper, 102 years; double spectacles; forked white beard)
+- круглый архив - the round archive (shelves in a ring, a pavilion in the third courtyard)
+- Дефтер / «Книга Гостей» - the Defter / the Book of Guests (917 entries, 800 years, 23 keepers; 112 entries with the hero's blot)
+- Хранители порога - the Keepers of the Threshold (the Order); Феокл - Theokles (first keeper, Alexandria)
+- «колодцы» - "wells" (families to which guests come; Suleyman, Karapet, Kyra Theodora, Hatice)
+- «пришедшие» записи - the "arrived" entries (appear by themselves, including about the future)
+- три школы: богословы, философы, механики - three schools: theologians (green book), philosophers (black), mechanics (copper plates)
+- Бану Муса - the Banu Musa brothers
+- Ordo Liminis - Ordo Liminis (the Order of the Threshold; split off in Venice three hundred years ago; kept in Latin)
+- Венецианец - the Venetian (the man in grey; "he changes cities like gloves")
+- карта города в пяти вариантах - the map of the city in five versions (Hagia Sophia with cross, with minarets, both, ruins, bridge)
+- медный ключ от архива - the copper key to the archive
+- сундук Хатидже «откроется, когда встретятся двое» - Hatice's chest "will open when two meet"
+- голубка Акмаля показывает дорогу - Akmal's dove shows Kemal the way
+- «Тот, кто будет» - "The one who will be" (Kemal's closing words)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
