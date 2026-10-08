@@ -475,6 +475,18 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Исирет - Isiret (hides Iti in the lower storehouse)
 - карлик Джеду - Djedu the dwarf (as in earlier chapters)
 
+## Vision VIII (Chicory)
+- 1827, Наварин (не назван), 20 октября - 1827, after the battle in the bay off the Morea (Navarino, not named), 20 October
+- мичман Павел - Midshipman Pavel (the young General, twenty); медальон с портретом Дуни - the medallion with Dunya's portrait on ivory (Evdokia, sixteen; "I shall wait, Pavlusha")
+- Янис - Yannis (old fisherman; the blue boat with the eye); тунец с бутылкой - the tunny with the bottle; записка на трёх языках - the note in Greek, French, Russian
+- месье Анселен (Огюст-Мари) - Monsieur Auguste-Marie Anselin (botanist; Cichorium intybus; "Annales")
+- Wegwarte - Wegwarte ("she who waits by the road"; the German legend of the chicory)
+- цикорий - chicory (flowers open at dawn, close by noon); грот у двух скал - the grotto by the two rocks
+- «Иди домой, Павел» - "Go home, Pavel" (in the hero's hand, with his blot)
+- хлеб и соль Яниса / нереиды - Yannis's bread and salt / the Nereids
+- «Почти полвека» - "Almost half a century" (how long Dunya will wait)
+- деревянный ворон, бумажный журавлик - the wooden raven that stole the sun, the paper crane (in the General's pocket)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
