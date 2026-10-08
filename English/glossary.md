@@ -487,6 +487,19 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - «Почти полвека» - "Almost half a century" (how long Dunya will wait)
 - деревянный ворон, бумажный журавлик - the wooden raven that stole the sun, the paper crane (in the General's pocket)
 
+## Reality X (Langkawi)
+- Лангкави - Langkawi ("red eagle", "necklace of beads"); пляж Чёрного Песка (Pantai Pasir Hitam) - the Beach of Black Sand (ash of the burned rice); паром из Куала-Перлиса - the ferry from Kuala Perlis
+- Мак Ча - Mak Cha (guesthouse hostess; pandan juice; "when Mak Cha is offended it stops raining")
+- Пак Дол - Pak Dol (taxi driver; blue anchor tattoo from Rotterdam; "All boatswains have an anchor on the left arm")
+- Амир - Amir (coconut boy, Nene Sari's great-great-great-grandson)
+- Нене Сари - Nene Sari (102 years; descendant of Mahsuri's line); могила Махсури - Mahsuri's grave; легенда о страннике - the legend of the wanderer who walked into the glowing sea ("In seven generations I shall return"); «Добро пожаловать обратно» - "Welcome back"
+- Махсури, белая кровь, проклятие на семь поколений - Mahsuri, white blood, the curse of seven generations
+- морское имя - the sea name (cannot be spoken, only heard); оранг-лаут - the Orang Laut (sea people; the old man's word, a sea name, unrecorded)
+- Ингрид - Ingrid (Danish diving instructor, Skagen); светящийся планктон («вода духов») - bioluminescent plankton ("spirit water"); вязь на воде - the script on the water (98% match with the uncle's notebook)
+- письмо «Аймана» с сервера в Женеве - "Ayman's" message from a server in Geneva (Penang)
+- Южный Крест - the Southern Cross (named here); указание «в Австралию» - the direction to Australia ("where the earth remembers the song")
+- «Он дышит» - "It breathes" (NICS at the ocean: "not at home but that I have returned")
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
