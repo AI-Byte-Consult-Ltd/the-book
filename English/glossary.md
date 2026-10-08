@@ -500,6 +500,20 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - Южный Крест - the Southern Cross (named here); указание «в Австралию» - the direction to Australia ("where the earth remembers the song")
 - «Он дышит» - "It breathes" (NICS at the ocean: "not at home but that I have returned")
 
+## Chapter XXXVIII
+- одна безлунная ночь во всех мирах - one moonless night in all worlds (four places: the balcony in Constantinople; the steamer; the Nile barque; the vault under the Library; plus Australia)
+- вязь светится на всех артефактах - the script glows on every artefact (stones, note, coins, shell, seal, blank sheet, scroll, tablet, lioness, potsherd, copies)
+- кошки Хатидже воют вокруг сундука - Hatice's eleven cats howl around the chest; светящаяся пластина - the glowing plate
+- медальон Генерала с цикорием - the General's medallion with the chicory (first shown)
+- Венецианец с копией Книги - the Venetian with the copy of the Book (112 entries with the blot)
+- Нефер-Ка плачет у ларца - Nefer-Ka weeps before the casket ("Do not let them meet")
+- четвёртое слово «вернуться» - the fourth word "return"; «Хранить... до срока... вернуться... домой» - "Keep... until the appointed time... return... home"
+- Мардж - Marge (owner of the Roadhouse); Ахмад Хан - Ahmad Khan (last of the Afghan cameleers' line; bread and salt); «Эму» - the Emu in the sky; Камай - Kamay
+- строка целиком - the whole line: "When two meet, what is kept will return home. The time has come."
+- Нора (Н.) и вторая система - Nora (N.) and the second system ("Hello, third. I am the second.")
+- голос «Скоро» - the voice that says "Soon"
+- щелчок сундука - the click of the chest ("as a lock clicks that is not there")
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
