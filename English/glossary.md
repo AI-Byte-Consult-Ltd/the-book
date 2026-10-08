@@ -529,6 +529,19 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - загадки Хасана: «два брата», «что встречается дважды...» - Hasan's riddles (two brothers; "what meets twice in the same place but never at the same time?")
 - «Конец Части первой» - End of Part One
 
+## Reality XI (The Earth Remembers)
+- Сидней / Circular Quay / Опера - Sydney / Circular Quay / the Opera House ("orange segments")
+- Билли (йолнгу, диджериду) - Billy (Yolngu, from Arnhem Land; plays the didgeridoo at the quay; his son studies medicine); дядюшка Рэй (дарауал) - Uncle Ray (Dharawal; guide at Kamay; shell on a cord)
+- Камай - Kamay (Botany Bay); Кундал - Kundal (the flat rock where Cook landed); Гвеагал - Gweagal; Гадигал - Gadigal; дарауал - Dharawal; йолнгу - Yolngu; Арнемленд - Arnhem Land
+- «Варра варра вай» - "Warra warra wai" ("you are all dead", not "go away")
+- Эму в небе - the Emu in the sky (drawn with darkness; head by the Southern Cross)
+- 1788: одиннадцать плавучих островов - 1788: eleven floating islands (the First Fleet; two more arrive: the French, not named); сын раненого дробью - the son of the man wounded by shot (sixteen winters)
+- бледный певец песни Камай - the pale singer of the song of Kamay (walks into the water; leaves a line on the sand); «Земля помнит твою песню» - "The earth remembers your song"
+- листок «Дж. К.» (1770) - the leaf "J. C." (Cook's private note: the night singer by the creek, the script in the margin, chicory on the stone); Тупайя - Tupaia; Бэнкс, Соландер - Banks, Solander; матрос Фенвик - seaman Fenwick; Форби Сазерленд - Forby Sutherland; лейтенант Хикс - Lieutenant Hicks; мичман Айзек Смит - midshipman Isaac Smith
+- сообщение «Н.» из Улуру - the message from "N." at Uluru ("Mine wants to meet yours... Without the grey ones.")
+- кукабара - the kookaburra ("it is waking the sun")
+- таможенница и «Академик Шокальский» - the customs officer and the *Akademik Shokalsky* plate (Hobart, condensed milk)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
