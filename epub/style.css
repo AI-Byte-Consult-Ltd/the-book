@@ -1,0 +1,9 @@
+body { font-family: serif; line-height: 1.5; margin: 0 5%; }
+h1 { text-align: center; font-size: 1.8em; margin: 3em 0 1.5em; page-break-before: always; }
+h2 { text-align: center; font-size: 1.4em; margin: 2.5em 0 1.5em; page-break-before: always; }
+p { margin: 0; text-indent: 1.4em; text-align: justify; }
+hr { border: none; text-align: center; margin: 1.5em 0; }
+hr::after { content: "* * *"; letter-spacing: .4em; }
+.titlepage p, .titlepage-title { text-indent: 0; text-align: center; }
+h1.titlepage-title { margin-top: 30%; font-size: 2.6em; }
+#copyright ~ p, #copyright + p { text-indent: 0; text-align: left; }
