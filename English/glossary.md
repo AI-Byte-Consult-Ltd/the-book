@@ -442,6 +442,24 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - голубка Акмаля показывает дорогу - Akmal's dove shows Kemal the way
 - «Тот, кто будет» - "The one who will be" (Kemal's closing words)
 
+## Chapter XXXVI
+- куст тырновской розы (отводок) - the Tarnovo rose bush (layered off three years ago; carried forty versts on foot); «в третий раз» - "for the third time"
+- Любен / болгарский дом на Преображенской - Lyuben / the Bulgarian house on Preobrazhenskaya ("School"); письмо Стефана - Stefan's letter (Turkish dispositions near Tarnovo)
+- Марфа - Marfa (the cook)
+- вторая акварель Веры - Vera's second watercolour (the faceless grey figure behind the young man)
+- платок Лизоньки (роза и «К») - Lizonka's handkerchief (rose and "K")
+- Тряскова - Tryaskov (poet, rival; Lizonka's possible match)
+- креп с портрета / портрет без лица - the crape from the portrait / the portrait without a face (blank canvas)
+- имя, шепнутое Агафьей - the name Agafya whispers at the carriage step (not given in the text)
+- три взгляда на сотворение - three views of creation: the Siamese monk (the wheel; "No one"), Strauch's Darwin, Stefan's Bulgarian legend (God and the other who hid earth in his mouth)
+- кобзарь / дума о невольниках - the kobzar / the duma of the captives on the galleys; его слова - his words ("You look back. You need to look forward.")
+- польская монахиня - the Polish nun (Czestochowa dream)
+- греческий купец из Таганрога - the Greek merchant from Taganrog
+- лестница в Одессе - the Odessa staircase ("From above only landings, from below only steps")
+- часовщик и мальчик Лёвушка (Дерибасовская) - the clockmaker and the boy Lyovushka (Deribasovskaya; the future Lev Aronovich)
+- «Великий князь Константин» - the steamer *Grand Duke Konstantin*; Венецианец на борту - the Venetian aboard (cane, top hat, bergamot; name in the register in the script)
+- кольцо Евдокии - Evdokia's ring (silver, given to the General)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
