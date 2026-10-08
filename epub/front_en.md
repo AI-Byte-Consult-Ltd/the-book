@@ -1,0 +1,49 @@
+# The Appearance {.titlepage-title}
+
+::: {.titlepage}
+**Alexander Lunin**
+
+A Mystical Adventure Novel
+
+Series "Terra Incognita". Book One
+:::
+
+# Copyright {#copyright}
+
+Copyright © 2020 - 2026 Alexander Lunin
+
+All rights reserved.
+
+The characters and events described in this book are fictitious. Any resemblance to real persons, living or dead, is coincidental and was not intended by the author.
+
+No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without the written permission of the publisher.
+
+ISBN-13: 979-8176203813
+
+Cover design: Alexander Lunin
+
+Independently published
+
+# About the Book
+
+A man comes to himself on a sunlit street of an eastern port city, not remembering who he is, nor how he came to be here, nor why this city seems strangely familiar to him.
+
+And then the impossible begins.
+
+Drawn into the world of an aristocratic house, he meets a mysterious stranger, an abandoned castle, and two ancient stones that seem to answer to the borders between worlds. Fragments of another life surface in visions of Ancient Egypt. A note in an unknown language points him the way to Sultanahmet. And somewhere in the shadows a grey figure watches him.
+
+The deeper the mystery, the faster the borders between past and present blur. The man discovers that he is bound to a Pharaoh in the Valley of the Nile, to the Ottoman Empire, and to a forgotten history in which, perhaps, lies the key to his own identity.
+
+Inspired by the author's travels through 62 countries of the world, "The Appearance" is a sweeping adventure-mystery novel that joins historical prose, mysticism and the enchantment of far wandering. From the ancient world to the streets of Constantinople, each discovery poses a more unsettling question:
+
+What if the past has never gone away?
+
+And what if someone - or something - is waiting for him to finally remember?
+
+"The Appearance" is the first book in the "Terra Incognita" series: a journey through lost stories, mysterious worlds and secrets hidden beyond the borders of time.
+
+# About the Author
+
+Alexander Lunin is a traveller and writer. To date he has visited 62 countries on all inhabited continents: in Europe, Asia, Africa, North America, Australia, New Zealand and Oceania, and has made several voyages around the world.
+
+The impressions of these wanderings, cities, temples, ports, roads, and the people met along the way, formed the basis of this book.
