@@ -514,6 +514,21 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - голос «Скоро» - the voice that says "Soon"
 - щелчок сундука - the click of the chest ("as a lock clicks that is not there")
 
+## Chapter XXXIX (end of Part One)
+- Sandık / Сундук - Sandik, "the chest" (Kemal's word; spelled "Sandık")
+- сборище хранителей и «колодцев» у дома Хатидже - the gathering at Hatice's door: Hasan, Hodja Nureddin, Ahmet Baba with Mismis, Niyaz Efendi (carried by Sumbul Agha in a litter), Karapet and his grandson Aram (with the candle), Despina (with Kyra Theodora's letter)
+- Арам - Aram (Karapet's grandson, ten)
+- сундук открыт: пустые гнёзда, часы «Л. А. Одесса», фотография - the chest open: two empty nests for the stones, the pocket watch ("L. A. Odessa", stopped at three, "Do not hurry. It will catch up with you."), the photograph
+- фотография 29.10.1929 - the photograph of 29 October 1929 (Galata Bridge, hats instead of fezzes, old Kemal with charcoal, TWO men with the hero's face, the grey shadow); надпись «İkisi buluştu. Dönüş başladı.» - "The two met. The return has begun." (Turkish in Latin letters)
+- Dönüş - "Return" (Kemal's word under his drawing of the bridge)
+- письмо киры Феодоры - Kyra Theodora's letter ("They were two... a third, grey, laid his hands on their shoulders"; "In this city everything important happens on the twenty-ninth"; signed F. P.-M.; the peacock spread its tail)
+- Венецианец опоздал - the Venetian arrived too late ("The chest is empty"; "We shall wait")
+- Галатская пристань: две встречи - the Galata quay: the two meet; time stops; Kemal joins their palms; the grey figure's hands on both shoulders; the word "Now"; the other hero vanishes leaving Konstantin's cross and the rose
+- Константин (Костя) находит героя - the lieutenant (Kostya) finds the hero and the cross; "Tell him I found."
+- Генерал: «Пятьдесят лет искал. Нашёл. Двоих.» - the General: "Fifty years I sought. Found. Two."
+- загадки Хасана: «два брата», «что встречается дважды...» - Hasan's riddles (two brothers; "what meets twice in the same place but never at the same time?")
+- «Конец Части первой» - End of Part One
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
