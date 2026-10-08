@@ -1,5 +1,5 @@
 Chapter XXXIII
-The Order
+The Command
 
 The courier galloped in on Wednesday, at dawn, when everyone in the house was still asleep except Agafya Tikhonovna, Mitka and the cocks.
 
