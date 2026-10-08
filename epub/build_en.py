@@ -59,8 +59,8 @@ description: "%s"
 ---
 """ % desc, encoding="utf-8")
 cmd = ["pandoc", str(meta), str(here/"book_en.md"), "-f", "markdown+smart-implicit_figures", "-t", "epub3",
-       "--toc", "--toc-depth=2", "--split-level=2", "--css", str(here/"style.css"), "-o", str(here/"the-appearance-en.epub")]
+       "--toc", "--toc-depth=2", "--split-level=2", "--css", str(here/"style.css"), "-o", str(here/"The Appearance.epub")]
 cover = next((c for c in here.glob("cover.*") if c.suffix.lower() in (".jpg",".jpeg",".png")), None)
 if cover: cmd += ["--epub-cover-image", str(cover)]
 subprocess.run(cmd, check=True)
-print("built", here/"the-appearance-en.epub", "cover:", cover)
+print("built", here/"The Appearance.epub", "cover:", cover)
