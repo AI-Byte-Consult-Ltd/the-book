@@ -460,6 +460,21 @@ Style rules: professional literary English, no em dashes (use hyphens), straight
 - «Великий князь Константин» - the steamer *Grand Duke Konstantin*; Венецианец на борту - the Venetian aboard (cane, top hat, bergamot; name in the register in the script)
 - кольцо Евдокии - Evdokia's ring (silver, given to the General)
 
+## Chapter XXXVII
+- новая луна - the new moon (Sopdet visible; "the Eye gone to gather itself")
+- вода поднялась на палец - the water rose a finger (Seti's scratch; "a river does not see one off, a river warns")
+- коробочка со Скалы Первых - the clay box from the Rock of the First Ones (a sheet of unknown white material; "He who holds both, let him not enter with them into the southern house, until there comes..." final sign erased: a seated man with a raised hand)
+- южный дом - the southern house (Luxor)
+- Бакенрен жив в Луксоре - Bakenren alive at Luxor; шесть каменщиков из Мемфиса - the six masons from Memphis; ниша «чтобы закрыть, когда войдёт» - the niche "to close it, when he enters"
+- Усерхат - Userhat ("Mighty of Brow", the river barque of the god); бурлаки - the haulers
+- львица Нанахат - Nanakhat's black stone lioness (cord of goat's wool)
+- вторая половина ответа - the second half of Nanakhat's answer ("Those two are one")
+- дощечка Ити (охота) - Iti's tablet from the hunt, with the new line "The scribe remembers. The scribe waits. Pharaoh will return."
+- ковчег бога пуст - the god's shrine is light (Nakht)
+- отражение высокой фигуры в реке - the tall figure's reflection in the river (points south)
+- Исирет - Isiret (hides Iti in the lower storehouse)
+- карлик Джеду - Djedu the dwarf (as in earlier chapters)
+
 ## Left untranslated
 - Turkish phrases in Chapter I (Simit, Buyurun efendi, Misafir, İncir, Su, Güzel değil mi) stay as in the original.
 - French "mon cher" stays as in the original.
