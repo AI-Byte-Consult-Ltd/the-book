@@ -1,2 +1,3 @@
-epub/book_ru.md
-epub/meta_ru.yaml
+book_ru.md
+meta_ru.yaml
+*.whl
