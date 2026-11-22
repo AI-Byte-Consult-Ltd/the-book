@@ -51,7 +51,7 @@ rights: Copyright © 2020 - 2026 Alexander Lunin. All rights reserved.
 publisher: Independently published
 identifier:
   - scheme: ISBN
-    text: 979-8176203813
+    text: 979-8161258644
 belongs-to-collection: Terra Incognita
 collection-type: series
 group-position: 1

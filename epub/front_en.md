@@ -18,7 +18,7 @@ The characters and events described in this book are fictitious. Any resemblance
 
 No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without the written permission of the publisher.
 
-ISBN-13: 979-8176203813
+ISBN-13: 979-8161258644
 
 Cover design: Alexander Lunin
 
